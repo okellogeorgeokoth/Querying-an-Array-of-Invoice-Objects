@@ -1,0 +1,13 @@
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\obj\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.vbprojAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\obj\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.AssemblyInfoInputs.cache
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\obj\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.AssemblyInfo.vb
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\obj\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.vbproj.CoreCompileInputs.cache
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\bin\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.exe
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\bin\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.deps.json
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\bin\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.runtimeconfig.json
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\bin\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.runtimeconfig.dev.json
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\bin\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.dll
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\bin\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.pdb
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\obj\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.dll
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\obj\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.pdb
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Querying an Array of Invoice Objects\obj\Debug\netcoreapp3.1\Querying an Array of Invoice Objects.genruntimeconfig.cache

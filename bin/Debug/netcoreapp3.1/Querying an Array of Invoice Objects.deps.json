@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Querying an Array of Invoice Objects/1.0.0": {
+        "runtime": {
+          "Querying an Array of Invoice Objects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Querying an Array of Invoice Objects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
